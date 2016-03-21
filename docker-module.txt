@@ -2,3 +2,5 @@ REPOSITORY          TAG                 IMAGE ID            CREATED             
 alpine              3.3                 70c557e50ed6        2 weeks ago         4.798 MB
 bash-4.3#
 /bin/sh: /bin/bash: not found
+$ docker run -i -t realpage/alpine-bash:3.3
+bash-4.3#
