@@ -4,3 +4,5 @@ bash-4.3#
 /bin/sh: /bin/bash: not found
 $ docker run -i -t realpage/alpine-bash:3.3
 bash-4.3#
+$ docker run -i -t realpage/alpine-bash:3.3 /bin/bash /home/welcome.sh
+Hello, World!
