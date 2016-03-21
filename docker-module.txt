@@ -7,4 +7,9 @@ bash-4.3#
 $ docker run -i -t realpage/alpine-bash:3.3 /bin/bash /home/welcome.sh
 Hello, World!
 $ docker run realpage/alpine-bash:3.3
-Hello, World!
+Hello, World!REPOSITORY                TAG                 IMAGE ID            CREATED             SIZE
+realpage/alpine-bash      3.3                 ee0c2a41095a        3 minutes ago       8.99 MB
+<none>                    <none>              9ae1b26b4964        6 minutes ago       8.99 MB
+<none>                    <none>              3a1ea84950df        11 minutes ago      8.99 MB
+alpine                    3.3                 70c557e50ed6        2 weeks ago         4.798 MB
+dockercloud/hello-world   latest              b05299680b1d        3 weeks ago         17.36 MB
